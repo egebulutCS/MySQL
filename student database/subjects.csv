@@ -1,0 +1,6 @@
+StaffID(FK),PathwayID(PK),PathwayName,Subject 1,Subject 2,Subject 3
+1,FBM,Business,Maths,Accounts,Databases
+2,FEP,Engineering,Physics,Maths,Mechanics
+2,FLI,Science,Psychology,Chemistry,Maths
+3,FLP,Law,Databases,Psychology,Criminal Law
+4,FMC,Computing,Programming,Databases,Maths

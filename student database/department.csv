@@ -1,0 +1,5 @@
+StaffID(PK),HeadDept,Phone
+1,Smith,123532
+2,Green,123653
+3,Johnston,123221
+4,Codd,123327
